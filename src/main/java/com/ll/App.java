@@ -20,8 +20,7 @@ class App {
                 System.out.print("작가: ");
                 String authorName =scanner.nextLine();
 
-                System.out.printf("명언 : %s, 작가 : %s\n", content, authorName);
-                // System.out.print("명언 : " + content + ", 작가 : " + authorName +"\n");
+                System.out.println("1번 명언이 등록되었습니다.");
 
             }
 
