@@ -53,7 +53,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,7 +89,7 @@
       <workItem from="1698367053724" duration="1250000" />
       <workItem from="1698710631463" duration="3052000" />
       <workItem from="1698715414493" duration="599000" />
-      <workItem from="1699229754913" duration="11294000" />
+      <workItem from="1699229754913" duration="12328000" />
     </task>
     <servers />
   </component>
